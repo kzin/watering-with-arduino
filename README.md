@@ -1,16 +1,16 @@
-# wateringwitharduino
-O objetivo deste projeto é criar um sistema de irrigação automático utilizando um arduíno yun.
+# O Projeto
+O objetivo deste projeto é criar um sistema de irrigação automático utilizando um arduíno yun. Utilizaremos o Arduíno Yun pela facilidade de integração com o parse.com e para a criação do painel de controle.
 
-# tags
+# Tags
 arduino yun, watering, home garden
 
-# funcionalidades
+# Funcionalidades
 - Regar a horta quando a terra estiver seca.
 - Registrar data, hora, temperatura e foto na hora da irrigação.
 - Tocar som enquanto não tiver água na caixa dágua.
 - Contrução de um painel de controle para acessar os dados.
 
-# sensores e atuadores
+# Sensores e Atuadores
 - Arduino Yun
 - Auto falante
 - LDR
@@ -20,5 +20,3 @@ arduino yun, watering, home garden
 - Sensor de umidade do solo
 - Sensor de reservatório de água
 - WebCam
-
-Utilizaremos o Arduíno Yun pela facilidade de integração com o parse.com e para a criação do painel de controle.
